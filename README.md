@@ -24,4 +24,5 @@ You can view a live demo of my portfolio [here](#) (replace # with the link to y
 
 1. Clone the repository:
    ```bash
+   https://github.com/ashurai1
    
